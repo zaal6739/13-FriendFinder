@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zaal6739/13-FriendFinder/issues"
   },
-  "homepage": "https://github.com/zaal6739/13-FriendFinder#readme"
+  "homepage": "https://github.com/zaal6739/13-FriendFinder#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
