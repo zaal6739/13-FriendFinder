@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zaal6739/13-FriendFinder#readme",
   "dependencies": {
+    "express.js": "^1.0.0",
     "path": "^0.12.7"
   }
 }
