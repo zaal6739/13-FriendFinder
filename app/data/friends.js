@@ -5,7 +5,7 @@ var tableArray = [
      photo:'https://www.oliverwyman.com/content/dam/oliver-wyman/v2/careers/profiles/juink.jpg',
      scores: [
         1,	1,	4,	3,	4,	1,	5,	3,	5,	2
-
+ 
      ]
     },
     {name:'Sarah',
