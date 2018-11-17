@@ -1,6 +1,6 @@
 //this file holds all of the friend data 
 
-var tableArray = [
+var friends = [
     {name:'Olivia',
      photo:'https://www.oliverwyman.com/content/dam/oliver-wyman/v2/careers/profiles/juink.jpg',
      scores: [
@@ -147,4 +147,4 @@ var tableArray = [
 
 ];
 
-module.exports = tableArray;
+module.exports = friends;
